@@ -32,7 +32,7 @@ spec:
       serviceAccountName: cjoc
       containers:
       - name: chuckhinson-g
-        image: gcr.io/core-workshop/helloworld-nodejs:chuckhinson-g-2
+        image: gcr.io/core-workshop/helloworld-nodejs:chuckhinson-g-3
         resources:
           requests:
             memory: "100Mi"
